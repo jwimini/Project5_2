@@ -10,8 +10,7 @@
         android:id="@+id/edit1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/edit_hint1"
-        />
+        android:hint="숫자 1 입력" />
     <EditText
         android:id="@+id/edit2"
         android:layout_width="match_parent"
